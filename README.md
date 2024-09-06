@@ -1,9 +1,17 @@
 # onePointOnTheTongue
 
-Web project created with the purpose of practice English an programming at the same time.
+# Description of the project
 
-The learn material to create this project its from Platzi courses. In this project I will put in practice the knowledge learned in this courses.
+Web project created with the purpose of practicing English and programming at the same time.
 
-General CSS styles for the project
+The learning material to create this project is from Platzi courses. In this project, I will put into practice the knowledge learned in these courses.
 
-Methodology: BEM (Block, Element and Modifier)
+# CSS
+
+**General CSS styles for the project**
+
+**Methodology: BEM (Block, Element, and Modifier)**
+
+**Projects color's**
+
+**Project fonts sizes**
