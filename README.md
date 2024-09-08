@@ -15,3 +15,7 @@ The learning material to create this project is from Platzi courses. In this pro
 **Projects color's**
 
 **Project fonts sizes**
+
+**Design inspiration for the frontend**
+
+***https://www.curso-ingles.com/***
